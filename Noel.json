@@ -1,0 +1,11 @@
+{
+  "name": "Noel",
+  "version": "0.1",
+  "gameTypes": "melee, classic, 1v1",
+  "authors": "Federico Rullo",
+  "description": "Robocode bot to learn and improve ML, it also separates waters",
+  "homepage": "",
+  "countryCodes": "it",
+  "platform": "Java 11",
+  "programmingLang": "Java 11.0"
+}
