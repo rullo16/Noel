@@ -1,2 +1,2 @@
 # Noel
-Bot for Robocode made while I was boring to improve ML and coding skills
+Bot for Robocode made while I was bored to improve ML and coding skills
